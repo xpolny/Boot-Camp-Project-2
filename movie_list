@@ -1,6 +1,0 @@
-SELECT *
-FROM movie_list
-
-ALTER TABLE movie_list
-ADD CONSTRAINT movie_pk
-PRIMARY KEY ("Title");
